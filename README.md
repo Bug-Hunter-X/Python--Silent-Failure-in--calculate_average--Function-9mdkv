@@ -1,0 +1,1 @@
+This repository demonstrates a subtle bug in a Python function designed to calculate the average of a list of numbers. The function fails silently when given an empty list and raises a TypeError if the input list contains non-numeric values. The solution provides a more robust version that handles both cases appropriately and includes comprehensive error handling.
